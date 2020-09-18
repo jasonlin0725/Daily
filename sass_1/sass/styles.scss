@@ -1,0 +1,22 @@
+@import 'base';
+        
+// 变量
+
+$primary-color: red;
+$primary-border: 1px solid $primary-color;
+
+div.box{
+    background-color: $primary-color;
+}
+
+h1.page-header{
+    border: $primary-border;
+}
+
+div {
+    border: {
+        left: 0;
+        right: 0;
+    }
+}
+

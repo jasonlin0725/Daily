@@ -1,0 +1,16 @@
+body {
+  font-size: 15px;
+  background: #000;
+  line-height: 6px; }
+
+div.box {
+  background-color: red; }
+
+h1.page-header {
+  border: 1px solid red; }
+
+div {
+  border-left: 0;
+  border-right: 0; }
+
+/*# sourceMappingURL=styles.css.map */
